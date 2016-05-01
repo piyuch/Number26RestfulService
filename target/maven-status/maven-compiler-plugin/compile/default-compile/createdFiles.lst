@@ -1,0 +1,6 @@
+com/transaction/de/data/TransactionSum.class
+com/transaction/de/service/TransactionServiceCompositeService.class
+com/transaction/de/TransactionServiceApplication.class
+com/transaction/de/service/Util.class
+com/transaction/de/model/TransactionWrapper.class
+com/transaction/de/data/TransactionData.class

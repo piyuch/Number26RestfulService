@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.transaction.de.TransactionServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.457 sec - in com.transaction.de.TransactionServiceApplicationTests
